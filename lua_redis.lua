@@ -1,3 +1,4 @@
+redis.replicate_commands()
 local parking_places = 100;
 
 local function get_airplane_parking(airplane_id)
